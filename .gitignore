@@ -1,0 +1,20 @@
+# Python / FastAPI
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# SQLite database & temporary lock files
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Node / Vite / React
+node_modules/
+dist/
+.vite/
+
+# Environment & OS files
+.env
+.DS_Store
